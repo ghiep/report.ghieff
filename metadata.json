@@ -1,0 +1,6 @@
+{
+  "name": "Daily Work Management & Productivity Dashboard",
+  "description": "Pusat pencatatan pekerjaan harian, manajemen tugas, evaluasi produktivitas, dan rekomendasi prioritas berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
